@@ -1,0 +1,4 @@
+2024-08-11 14:16:15 - entro al metodo crear_veterinaria: dos
+2024-08-11 14:16:24 - entro al metodo ver_veterinarias
+2024-08-23 16:34:58 - entro al metodo buscar_veterinarias: 1
+2024-08-23 16:35:17 - entro al metodo buscar_veterinarias: 1
